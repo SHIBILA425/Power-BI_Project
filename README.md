@@ -7,7 +7,7 @@ This project analyzes employee data to understand workforce trends and employee 
 - **CSV Dataset** – Data source
 
 ## Dashboard Preview
-[HR Dashboard]("PowerBI_Dashboard.png")
+
 ## Key KPIs
 The dashboard tracks the following HR metrics:
 - **Total Employees**: 1470
@@ -17,11 +17,11 @@ The dashboard tracks the following HR metrics:
 - **Average Age**: 36.92 years
 
 ## Key Insights
-- The overall employee attrition rate is 16.12%, indicating moderate turnover.
-- Research & Development and Sales departments experience the highest attrition.
-- Employees aged 26–35 years show the highest attrition rate.
-- Most employees leaving the company belong to the low salary slab.
-- Technical and sales-related roles such as Laboratory Technician and Sales Executive show higher attrition count.
+- The overall **employee attrition rate is 16.12%**, indicating moderate turnover.
+- **Research & Development and Sales departments** experience the highest attrition.
+- Employees aged **26–35 years show the highest attrition rate**.
+- Most employees leaving the company belong to the **low salary slab**.
+- Technical and sales-related roles such as **Laboratory Technician and Sales Executive** show higher attrition count.
 
 ## Business Recommendations
 - Review compensation structures for **lower salary bands** to improve retention.
